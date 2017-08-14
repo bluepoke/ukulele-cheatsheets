@@ -34,10 +34,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="336.53888"
-     inkscape:cy="531.44154"
+     inkscape:cx="301.26101"
+     inkscape:cy="330.92876"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g16057"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -2062,12 +2062,6 @@
          id="path8042"
          d="M -15,17.362205 -15,7.3622047"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
-      <circle
-         r="2"
-         cy="-7.637795"
-         cx="-45"
-         id="circle8044"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
       <path
          inkscape:connector-curvature="0"
          id="path8046"
@@ -2099,23 +2093,11 @@
          d="m -15,-12.637795 0,9.9999997"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
       <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle8058"
-         cx="-45"
-         cy="2.3622048"
-         r="2" />
-      <circle
          r="2"
          cy="12.362205"
          cx="-45"
          id="circle8060"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle8062"
-         cx="-35"
-         cy="-7.637795"
-         r="2" />
       <circle
          r="2"
          cy="2.3622048"
@@ -2123,40 +2105,10 @@
          id="circle8064"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
       <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle8066"
-         cx="-35"
-         cy="12.362205"
-         r="2" />
-      <circle
          r="2"
          cy="-7.637795"
          cx="-15"
          id="circle8068"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle8070"
-         cx="-15"
-         cy="2.3622048"
-         r="2" />
-      <circle
-         r="2"
-         cy="12.362205"
-         cx="-15"
-         id="circle8072"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle8074"
-         cx="-25"
-         cy="-7.637795"
-         r="2" />
-      <circle
-         r="2"
-         cy="2.3622048"
-         cx="-25"
-         id="circle8076"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
       <circle
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
@@ -2175,7 +2127,7 @@
            y="25.81208"
            x="-44.943237"
            id="tspan8082"
-           sodipodi:role="line">G</tspan></text>
+           sodipodi:role="line">5</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2187,7 +2139,7 @@
            id="tspan8086"
            x="-34.943237"
            y="25.81208"
-           style="font-size:7.5px;text-align:center;text-anchor:middle">G</tspan></text>
+           style="font-size:7.5px;text-align:center;text-anchor:middle">7</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text8088"
@@ -2199,7 +2151,7 @@
            y="25.81208"
            x="-24.943237"
            id="tspan8090"
-           sodipodi:role="line">G</tspan></text>
+           sodipodi:role="line">3</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2211,7 +2163,7 @@
            id="tspan8094"
            x="-14.943237"
            y="25.81208"
-           style="font-size:7.5px;text-align:center;text-anchor:middle">G</tspan></text>
+           style="font-size:7.5px;text-align:center;text-anchor:middle">5</tspan></text>
     </g>
     <g
        transform="matrix(1.9342935,0,0,1.9342935,488.10484,703.22696)"
@@ -2304,63 +2256,15 @@
          inkscape:connector-curvature="0" />
       <circle
          r="2"
-         cy="2.3622048"
-         cx="-45"
-         id="circle8316"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle8318"
-         cx="-45"
-         cy="12.362205"
-         r="2" />
-      <circle
-         r="2"
-         cy="-7.637795"
-         cx="-35"
-         id="circle8320"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle8322"
-         cx="-35"
-         cy="2.3622048"
-         r="2" />
-      <circle
-         r="2"
          cy="12.362205"
          cx="-35"
          id="circle8324"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
       <circle
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle8326"
-         cx="-15"
-         cy="-7.637795"
-         r="2" />
-      <circle
-         r="2"
-         cy="2.3622048"
-         cx="-15"
-         id="circle8328"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
          id="circle8330"
          cx="-15"
          cy="12.362205"
-         r="2" />
-      <circle
-         r="2"
-         cy="-7.637795"
-         cx="-25"
-         id="circle8332"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle8334"
-         cx="-25"
-         cy="2.3622048"
          r="2" />
       <circle
          r="2"
@@ -2391,7 +2295,7 @@
            y="25.81208"
            x="-34.943237"
            id="tspan8344"
-           sodipodi:role="line">G</tspan></text>
+           sodipodi:role="line">5</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2403,7 +2307,7 @@
            id="tspan8348"
            x="-24.943237"
            y="25.81208"
-           style="font-size:7.5px;text-align:center;text-anchor:middle">G</tspan></text>
+           style="font-size:7.5px;text-align:center;text-anchor:middle">7</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text8350"
@@ -2415,7 +2319,7 @@
            y="25.81208"
            x="-14.943237"
            id="tspan8352"
-           sodipodi:role="line">G</tspan></text>
+           sodipodi:role="line">3</tspan></text>
     </g>
     <g
        id="g8460"
@@ -6088,12 +5992,6 @@
     <g
        transform="matrix(1.9342935,0,0,1.9342935,255.98964,722.56989)"
        id="g15835">
-      <circle
-         r="2"
-         cy="-17.637794"
-         cx="-105"
-         id="circle15837"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
       <path
          inkscape:connector-curvature="0"
          id="path15839"
@@ -6164,12 +6062,6 @@
          id="path15865"
          d="m -75,-22.637795 -30,0"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
-      <circle
-         r="2"
-         cy="-7.637795"
-         cx="-105"
-         id="circle15867"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
       <path
          inkscape:connector-curvature="0"
          id="path15869"
@@ -6206,29 +6098,11 @@
          d="m -75,-22.637795 0,10"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
       <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle15883"
-         cx="-105"
-         cy="2.3622048"
-         r="2" />
-      <circle
          r="2"
          cy="12.362205"
          cx="-105"
          id="circle15885"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle15887"
-         cx="-95"
-         cy="-17.637794"
-         r="2" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle15889"
-         cx="-95"
-         cy="-7.637795"
-         r="2" />
       <circle
          r="2"
          cy="2.3622048"
@@ -6236,58 +6110,16 @@
          id="circle15891"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
       <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle15893"
-         cx="-95"
-         cy="12.362205"
-         r="2" />
-      <circle
          r="2"
          cy="-17.637794"
          cx="-75"
          id="circle15895"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
       <circle
-         r="2"
-         cy="-7.637795"
-         cx="-75"
-         id="circle15897"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle15899"
-         cx="-75"
-         cy="2.3622048"
-         r="2" />
-      <circle
-         r="2"
-         cy="12.362205"
-         cx="-75"
-         id="circle15901"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle15903"
-         cx="-85"
-         cy="-17.637794"
-         r="2" />
-      <circle
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
          id="circle15905"
          cx="-85"
          cy="-7.637795"
-         r="2" />
-      <circle
-         r="2"
-         cy="2.3622048"
-         cx="-85"
-         id="circle15907"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle15909"
-         cx="-85"
-         cy="12.362205"
          r="2" />
       <text
          sodipodi:linespacing="125%"
@@ -6312,7 +6144,7 @@
            id="tspan15917"
            x="-94.943237"
            y="25.81208"
-           style="font-size:7.5px;text-align:center;text-anchor:middle">G</tspan></text>
+           style="font-size:7.5px;text-align:center;text-anchor:middle">3</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text15919"
@@ -6324,7 +6156,7 @@
            y="25.81208"
            x="-84.943237"
            id="tspan15921"
-           sodipodi:role="line">G</tspan></text>
+           sodipodi:role="line">5</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6336,7 +6168,7 @@
            id="tspan15925"
            x="-74.943237"
            y="25.81208"
-           style="font-size:7.5px;text-align:center;text-anchor:middle">G</tspan></text>
+           style="font-size:7.5px;text-align:center;text-anchor:middle">7</tspan></text>
     </g>
     <g
        id="g15927"
@@ -6429,45 +6261,9 @@
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
       <circle
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle15963"
-         cx="-45"
-         cy="2.3622048"
-         r="2" />
-      <circle
-         r="2"
-         cy="12.362205"
-         cx="-45"
-         id="circle15965"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
          id="circle15967"
          cx="-35"
          cy="-7.637795"
-         r="2" />
-      <circle
-         r="2"
-         cy="2.3622048"
-         cx="-35"
-         id="circle15969"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle15971"
-         cx="-35"
-         cy="12.362205"
-         r="2" />
-      <circle
-         r="2"
-         cy="-7.637795"
-         cx="-15"
-         id="circle15973"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle15975"
-         cx="-15"
-         cy="2.3622048"
          r="2" />
       <circle
          r="2"
@@ -6481,18 +6277,6 @@
          cx="-25"
          cy="-7.637795"
          r="2" />
-      <circle
-         r="2"
-         cy="2.3622048"
-         cx="-25"
-         id="circle15981"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle15983"
-         cx="-25"
-         cy="12.362205"
-         r="2" />
       <text
          sodipodi:linespacing="125%"
          id="text15985"
@@ -6504,7 +6288,7 @@
            y="25.81208"
            x="-44.943237"
            id="tspan15987"
-           sodipodi:role="line">G</tspan></text>
+           sodipodi:role="line">5</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6528,7 +6312,7 @@
            y="25.81208"
            x="-24.943237"
            id="tspan15995"
-           sodipodi:role="line">G</tspan></text>
+           sodipodi:role="line">3</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6540,7 +6324,7 @@
            id="tspan15999"
            x="-14.943237"
            y="25.81208"
-           style="font-size:7.5px;text-align:center;text-anchor:middle">G</tspan></text>
+           style="font-size:7.5px;text-align:center;text-anchor:middle">7</tspan></text>
     </g>
     <g
        transform="translate(786.00861,548.08294)"
@@ -6601,22 +6385,10 @@
          d="m -210.86057,150.04175 0,-19.34293"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.93429351px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
       <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle16025"
-         cx="-268.88937"
-         cy="140.37029"
-         r="3.868587" />
-      <circle
          r="3.868587"
          cy="159.71321"
          cx="-268.88937"
          id="circle16027"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         r="3.868587"
-         cy="140.37029"
-         cx="-249.54643"
-         id="circle16029"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
       <circle
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
@@ -6632,22 +6404,10 @@
          r="3.868587" />
       <circle
          r="3.868587"
-         cy="159.71321"
-         cx="-210.86057"
-         id="circle16035"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         r="3.868587"
          cy="140.37029"
          cx="-230.20351"
          id="circle16037"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle16039"
-         cx="-230.20351"
-         cy="159.71321"
-         r="3.868587" />
       <text
          sodipodi:linespacing="125%"
          id="text16041"
@@ -6659,7 +6419,7 @@
            y="185.72922"
            x="-268.77957"
            id="tspan16043"
-           sodipodi:role="line">G</tspan></text>
+           sodipodi:role="line">7</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6671,7 +6431,7 @@
            id="tspan16047"
            x="-249.43665"
            y="185.72922"
-           style="font-size:14.50720119px;text-align:center;text-anchor:middle">G</tspan></text>
+           style="font-size:14.50720119px;text-align:center;text-anchor:middle">3</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text16049"
@@ -6683,7 +6443,7 @@
            y="185.72922"
            x="-230.0937"
            id="tspan16051"
-           sodipodi:role="line">G</tspan></text>
+           sodipodi:role="line">5</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6787,47 +6547,11 @@
          d="m -15,-12.637795 0,9.9999997"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
       <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle16093"
-         cx="-45"
-         cy="2.3622048"
-         r="2" />
-      <circle
-         r="2"
-         cy="12.362205"
-         cx="-45"
-         id="circle16095"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle16097"
-         cx="-35"
-         cy="-7.637795"
-         r="2" />
-      <circle
          r="2"
          cy="2.3622048"
          cx="-35"
          id="circle16099"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle16101"
-         cx="-35"
-         cy="12.362205"
-         r="2" />
-      <circle
-         r="2"
-         cy="-7.637795"
-         cx="-15"
-         id="circle16103"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle16105"
-         cx="-15"
-         cy="2.3622048"
-         r="2" />
       <circle
          r="2"
          cy="12.362205"
@@ -6835,23 +6559,11 @@
          id="circle16107"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
       <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle16109"
-         cx="-25"
-         cy="-7.637795"
-         r="2" />
-      <circle
          r="2"
          cy="2.3622048"
          cx="-25"
          id="circle16111"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter"
-         id="circle16113"
-         cx="-25"
-         cy="12.362205"
-         r="2" />
       <text
          sodipodi:linespacing="125%"
          id="text16115"
@@ -6875,7 +6587,7 @@
            id="tspan16121"
            x="-34.943237"
            y="25.81208"
-           style="font-size:7.5px;text-align:center;text-anchor:middle">G</tspan></text>
+           style="font-size:7.5px;text-align:center;text-anchor:middle">b5</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text16123"
@@ -6887,7 +6599,7 @@
            y="25.81208"
            x="-24.943237"
            id="tspan16125"
-           sodipodi:role="line">G</tspan></text>
+           sodipodi:role="line">b7</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6899,7 +6611,7 @@
            id="tspan16129"
            x="-14.943237"
            y="25.81208"
-           style="font-size:7.5px;text-align:center;text-anchor:middle">G</tspan></text>
+           style="font-size:7.5px;text-align:center;text-anchor:middle">3</tspan></text>
     </g>
     <g
        transform="translate(553.8934,674.74959)"
