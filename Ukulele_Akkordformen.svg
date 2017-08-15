@@ -33,15 +33,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="483.64591"
-     inkscape:cy="748.33701"
+     inkscape:zoom="1.4"
+     inkscape:cx="490.86807"
+     inkscape:cy="950.73428"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="1912"
+     inkscape:window-height="1058"
+     inkscape:window-x="3832"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -67,7 +67,7 @@
     <rect
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
        id="rect17718"
-       width="210.71428"
+       width="243.21428"
        height="228.57143"
        x="496.75671"
        y="793.90417" />
@@ -75,13 +75,13 @@
        y="667.76611"
        x="617.47101"
        height="114.99999"
-       width="90"
+       width="122.5"
        id="rect17716"
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <rect
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
        id="rect17714"
-       width="90"
+       width="122.58928"
        height="114.99999"
        x="617.47101"
        y="541.09943" />
@@ -89,13 +89,13 @@
        y="293.569"
        x="617.47101"
        height="114.99999"
-       width="90"
+       width="122.58929"
        id="rect17712"
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <rect
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
        id="rect17465"
-       width="90"
+       width="122.5"
        height="114.99999"
        x="617.43561"
        y="164.96802" />
@@ -113,25 +113,30 @@
     <text
        sodipodi:linespacing="125%"
        id="text4539"
-       y="96.362198"
-       x="42.017948"
+       y="88.362198"
+       x="55.21619"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:15px"
-         y="96.362198"
-         x="42.017948"
+         y="88.362198"
+         x="55.21619"
          id="tspan4541"
          sodipodi:role="line">Im Diagramm befindet sich oben der niedrigste Bund. Verschiebt man den obersten</tspan><tspan
          id="tspan4543"
          style="font-size:15px"
-         y="115.1122"
-         x="42.017948"
-         sodipodi:role="line">Bund bis zum Sattel, so erhält man offene Akkorde. Die Angaben unter dem Diagramm</tspan><tspan
+         y="107.1122"
+         x="55.21619"
+         sodipodi:role="line">Bund bis zum Sattel, so erhält man offene Akkorde, deren Namen neben den</tspan><tspan
          id="tspan4545"
          style="font-size:15px"
-         y="133.8622"
-         x="42.017948"
-         sodipodi:role="line">bezeichnen die Funktion innerhalb des Akkords (G=Grundton).</tspan></text>
+         y="125.8622"
+         x="55.21619"
+         sodipodi:role="line">Diagrammen angegeben sind. Die Angaben unter dem Diagramm bezeichnen die</tspan><tspan
+         style="font-size:15px"
+         y="144.6122"
+         x="55.21619"
+         sodipodi:role="line"
+         id="tspan5676">Funktion innerhalb des Akkords (G=Grundton).</tspan></text>
     <g
        id="g5654">
       <path
@@ -7706,7 +7711,7 @@
          sodipodi:role="line"
          x="-676.69769"
          y="719.75354"
-         style="text-align:end;text-anchor:end">7b5</tspan><tspan
+         style="text-align:end;text-anchor:end">7/b5</tspan><tspan
          sodipodi:role="line"
          x="-676.69769"
          y="735.37854"
@@ -7862,5 +7867,365 @@
          x="581.36627"
          y="313.72696"
          style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">F#m</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5586"
+       y="440.39359"
+       x="119.7663"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="440.39359"
+         x="119.7663"
+         id="tspan5588"
+         sodipodi:role="line">A7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="235.82391"
+       y="440.39359"
+       id="text5590"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5592"
+         x="235.82391"
+         y="440.39359"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">A7</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5594"
+       y="440.39359"
+       x="351.25107"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="440.39359"
+         x="351.25107"
+         id="tspan5596"
+         sodipodi:role="line">C7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="466.70657"
+       y="440.38651"
+       id="text5598"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5600"
+         x="466.70657"
+         y="440.38651"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">G7</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5602"
+       y="440.39359"
+       x="582.76416"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="440.39359"
+         x="582.76416"
+         id="tspan5604"
+         sodipodi:role="line">E7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="698.82178"
+       y="440.39359"
+       id="text5606"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5608"
+         x="698.82178"
+         y="440.39359"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;">D7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="119.7663"
+       y="567.06024"
+       id="text5610"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5612"
+         x="119.7663"
+         y="567.06024"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Am7</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5614"
+       y="567.06024"
+       x="235.82391"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="567.06024"
+         x="235.82391"
+         id="tspan5616"
+         sodipodi:role="line">Am7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="347.25107"
+       y="567.06024"
+       id="text5618"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5620"
+         x="347.25107"
+         y="567.06024"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">C#m7</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5622"
+       y="567.05316"
+       x="466.70657"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="567.05316"
+         x="466.70657"
+         id="tspan5624"
+         sodipodi:role="line">Gm7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="582.76416"
+       y="567.06024"
+       id="text5626"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5628"
+         x="582.76416"
+         y="567.06024"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Em7</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5630"
+       y="691.0802"
+       x="119.7663"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:10px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="691.0802"
+         x="119.7663"
+         id="tspan5632"
+         sodipodi:role="line">A#maj7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="349.93875"
+       y="691.0802"
+       id="text5634"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5636"
+         x="349.93875"
+         y="691.0802"
+         style="font-size:10px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Cmaj7</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5638"
+       y="691.0802"
+       x="469.56177"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:10px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="691.0802"
+         x="469.56177"
+         id="tspan5640"
+         sodipodi:role="line">Gmaj7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="585.61938"
+       y="691.0802"
+       id="text5642"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5644"
+         x="585.61938"
+         y="691.0802"
+         style="font-size:10px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Amaj7</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5646"
+       y="626.59821"
+       x="698.82178"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="626.59821"
+         x="698.82178"
+         id="tspan5648"
+         sodipodi:role="line">A7+5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="692.82178"
+       y="772.38824"
+       id="text5650"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5652"
+         x="692.82178"
+         y="772.38824"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">G7/b5</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5654"
+       y="820.39362"
+       x="119.7663"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="820.39362"
+         x="119.7663"
+         id="tspan5656"
+         sodipodi:role="line">G#9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="351.25107"
+       y="820.39362"
+       id="text5658"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5660"
+         x="351.25107"
+         y="820.39362"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;">D#9</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5624"
+       y="947.06378"
+       x="351.25107"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="947.06378"
+         x="351.25107"
+         id="tspan5626"
+         sodipodi:role="line">C6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="466.70657"
+       y="947.05316"
+       id="text5628"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5630"
+         x="466.70657"
+         y="947.05316"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">G6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="235.82391"
+       y="947.06024"
+       id="text5632"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5634"
+         x="235.82391"
+         y="947.06024"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">A#6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="119.7663"
+       y="947.06378"
+       id="text5636"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5638"
+         x="119.7663"
+         y="947.06378"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">A6</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5640"
+       y="820.39362"
+       x="582.76416"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="820.39362"
+         x="582.76416"
+         id="tspan5642"
+         sodipodi:role="line">Am6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="580.76416"
+       y="947.04962"
+       id="text5644"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5646"
+         x="580.76416"
+         y="947.04962"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">C#m6</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5648"
+       y="898.39362"
+       x="664.82178"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="898.39362"
+         x="664.82178"
+         id="tspan5650"
+         sodipodi:role="line">Gm6</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5652"
+       y="947.06024"
+       x="694.82178"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="947.06024"
+         x="694.82178"
+         id="tspan5654"
+         sodipodi:role="line">A#m6</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5656"
+       y="691.0802"
+       x="235.44656"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-size:10px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;"
+         y="691.0802"
+         x="235.44656"
+         id="tspan5658"
+         sodipodi:role="line">Dmaj7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="235.82391"
+       y="820.39362"
+       id="text5660"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5662"
+         x="235.82391"
+         y="820.39362"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;">C9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.37174225px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="466.70657"
+       y="820.38654"
+       id="text5664"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5666"
+         x="466.70657"
+         y="820.38654"
+         style="font-size:14.50720119px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;">A9</tspan></text>
   </g>
 </svg>
